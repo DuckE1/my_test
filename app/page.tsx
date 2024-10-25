@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      Hola mundo
+      Este es un test para Github
     </div>
   );
 }
